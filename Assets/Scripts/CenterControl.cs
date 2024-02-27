@@ -4,7 +4,7 @@ using System.Collections;
 using TMPro;
 using UnityEngine.Playables;
 using System.Collections.Generic;
-
+/*
 [System.Serializable]
 public class MeasurementItem
 {
@@ -12,8 +12,8 @@ public class MeasurementItem
     public float inHd;
     public string frmhsId;
     public float cunt;
-    public float outWs;       // New variable
-    public float daysuplyqy;  // New variable
+    public float outWs;       
+    public float daysuplyqy;  
 }
 
 [System.Serializable]
@@ -55,8 +55,8 @@ public class CenterControl : MonoBehaviour
     public float InHdValue { get; private set; }
     public string FrmhsIdValue { get; private set; }
     public float CuntValue { get; private set; }
-    public float OutWsValue { get; private set; }       // New variable
-    public float DaysuplyqyValue { get; private set; }  // New variable
+    public float OutWsValue { get; private set; }       
+    public float DaysuplyqyValue { get; private set; }  
 
     void Start()
     {
@@ -107,3 +107,4 @@ public class CenterControl : MonoBehaviour
         }
     }
 }
+*/
